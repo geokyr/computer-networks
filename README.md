@@ -1,6 +1,11 @@
 # ntua-computer-networks
 
-Lab Assignments for the [Computer Networks](https -//www.ece.ntua.gr/en/undergraduate/courses/3298) course, during the 7th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
+Lab Assignments for the [Computer Networks](https://www.ece.ntua.gr/en/undergraduate/courses/3298) course, during the 7th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
+
+## Lab Assignments
+A set of 12 Lab Assignments provided hands-on experience, in order to comprehend the operation of Internet Protocols, by capturing and analyzing traffic generated in IP networks. The Lab Assignments were implemented using [Wireshark](https://www.wireshark.org/), an open-source packet analyzer software.
+
+The topics covered in each Lab Assignment are as follows.
 
 ## Lab 01 - Introduction to Wireshark
 
