@@ -1,4 +1,4 @@
-# ntua-computer-networks
+# ece-ntua-computer-networks
 
 Lab Assignments for the [Computer Networks](https://www.ece.ntua.gr/en/undergraduate/courses/3298) course, during the 7th semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
